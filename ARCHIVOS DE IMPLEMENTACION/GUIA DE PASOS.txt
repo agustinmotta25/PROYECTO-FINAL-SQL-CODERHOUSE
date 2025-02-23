@@ -1,0 +1,8 @@
+Para la correcta instalación de la base de datos, debemos dirigirnos a la carpeta "Archivos SQL", luego instalar los Script en el siguiente orden:
+
+1.MATERO DEL SUR
+2.VISTAS
+3.FUNCIONES
+4.STORED PROCEDURES
+5.TRIGGERS
+6.BACKUP
